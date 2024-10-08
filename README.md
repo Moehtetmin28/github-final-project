@@ -10,4 +10,9 @@ Input:
 Output
    simple interest = p*t*r
 
+bug-fix-typo
+
+
+
 &copy;2022 XYZ, Inc.
+  main
